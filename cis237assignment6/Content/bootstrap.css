@@ -311,11 +311,11 @@ html {
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 14px;
   line-height: 1.428571429;
-  color: #333333;
-  background-color: #ffffff;
+  color: #111;
+  background-color: #ddd;
 }
 
 input,
@@ -402,6 +402,7 @@ hr {
 
 p {
   margin: 0 0 10px;
+  font-size:1.25em;
 }
 
 .lead {
@@ -473,7 +474,6 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   line-height: 1.1;
 }
@@ -492,7 +492,6 @@ h6 small,
 .h6 small {
   font-weight: normal;
   line-height: 1;
-  color: #999999;
 }
 
 h1,
@@ -500,6 +499,7 @@ h2,
 h3 {
   margin-top: 20px;
   margin-bottom: 10px;
+  color:#008080;
 }
 
 h4,
@@ -708,6 +708,7 @@ address {
   margin-bottom: 20px;
   font-style: normal;
   line-height: 1.428571429;
+  font-size:1.25em;
 }
 
 code,
